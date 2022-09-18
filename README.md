@@ -4,3 +4,5 @@
 **In Java, a switch statement is used to transfer control to a particular block of code, based on the value of the variable being tested.**
 
 *This repository contains my code written in java for understanding switch case*
+
+Switch case is used in machine designing in theory of computation
